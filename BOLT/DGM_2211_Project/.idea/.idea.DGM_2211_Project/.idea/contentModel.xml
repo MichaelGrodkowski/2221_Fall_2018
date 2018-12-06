@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\10811094\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_DGM_2211_Project.446385041.00" t="ExcludeRecursive" />
-    <e p="F:\BOLT\DGM_2211_Project" t="IncludeRecursive">
+    <e p="C:\Users\10811094\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_DGM_2211_Project.545418475.00" t="ExcludeRecursive" />
+    <e p="C:\Users\10811094\Documents\Repo\December 2221\2221_Fall_2018\BOLT\DGM_2211_Project" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
@@ -247,9 +247,12 @@
         </e>
       </e>
       <e p="DGM_2211_Project.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
       <e p="packages" t="ExcludeRecursive" />
-      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
     </e>
   </component>
 </project>

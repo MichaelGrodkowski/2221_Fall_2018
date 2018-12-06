@@ -10,87 +10,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="pb_MissingScriptEditor.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/ProCore/ProBuilder/Editor/pb_MissingScriptEditor.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1161">
-              <caret line="167" column="17" selection-start-line="167" selection-start-column="17" selection-end-line="167" selection-end-column="17" />
-              <folding>
-                <marker date="1543694368755" expanded="true" signature="0:140" ph="/* Repairs missing pb_Object and pb_Entity references.  It is based ... */" />
-                <marker date="1543694368755" expanded="false" signature="148:292" ph="..." />
-                <marker date="1543694368755" expanded="true" signature="328:13976" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="332:478" ph="/* Extends MonoBehaviour Inspector, automatically fixing missing script ... */" />
-                <marker date="1543694368755" expanded="true" signature="563:13974" ph="{...}" />
-                <marker date="1543694368755" expanded="false" signature="568:2411" ph="Members" />
-                <marker date="1543694368755" expanded="true" signature="1397:1550" ph="/// &lt; MonoScript assets ... " />
-                <marker date="1543694368755" expanded="true" signature="1423:1550" ph="/* Load the pb_Object and pb_Entity classes to MonoScript assets.  Saves us from having to fall back on Reflectio ... */" />
-                <marker date="1543694368755" expanded="true" signature="1581:2018" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="2053:2142" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="2064:2138" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="2177:2266" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="2188:2262" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="2304:2399" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="2315:2395" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="2564:2608" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="2655:3236" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="2938:3057" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="3065:3232" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="3240:3355" ph="/* Advance to the next gameobject with missing components.  If none are found, display dialog and exit. ... */" />
-                <marker date="1543694368755" expanded="true" signature="3376:5585" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="3605:3656" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="3675:4537" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="3873:4532" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="3965:4526" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="4112:4367" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="4296:4359" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="4409:4468" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="4663:5175" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="4833:4914" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="4941:5170" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="5589:5648" ph="/* SerializedProperty names found in pb_Entity. ... */" />
-                <marker date="1543694368755" expanded="true" signature="5715:5802" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="5807:5866" ph="/* SerializedProperty names found in pb_Object. ... */" />
-                <marker date="1543694368755" expanded="true" signature="5933:6006" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="6226:9399" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="6290:6335" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="6501:6676" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="6520:6609" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="6575:6603" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="6618:6658" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="6731:6882" ph="/* Shows a detailed tree view of all the properties in this serializedobject. ... */" />
-                <marker date="1543694368755" expanded="true" signature="7011:7194" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="7330:7587" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="7595:8134" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="7614:8067" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="7648:7928" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="7938:8007" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="8076:8116" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="8188:8306" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="8238:8301" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="8436:9356" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="8564:8590" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="8599:8796" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="8812:8896" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="9403:9494" ph="/* Scan the scene for gameObjects referencing `pb_DummyScript` and delete them. ... */" />
-                <marker date="1543694368755" expanded="true" signature="9529:11256" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="9738:11252" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="10062:11246" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="10186:10995" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="11260:11343" ph="/* Returns a formatted string with all properties in serialized object. ... */" />
-                <marker date="1543694368755" expanded="true" signature="11419:12303" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="11523:11582" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="11707:12273" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="12307:12377" ph="/* Return a string from the value of a SerializedProperty. ... */" />
-                <marker date="1543694368755" expanded="true" signature="12440:13970" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="12471:13966" ph="{...}" />
-                <marker date="1543694368755" expanded="true" signature="13336:13451" ph="/* Not public api as of 4.3? ... */" />
-              </folding>
+            <state relative-caret-position="-238">
+              <caret line="138" selection-start-line="138" selection-end-line="138" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/ProCore/ProBuilder/Editor/pb_MissingScriptEditor.cs" root0="FORCE_HIGHLIGHTING" />
@@ -107,11 +40,16 @@
     <option name="width" value="1201" />
     <option name="height" value="499" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -125,10 +63,6 @@
         <option name="show-hidden-items" value="false" />
       </pane>
       <pane id="Scratches" />
-      <pane id="SolutionExplorer">
-        <option name="show-file-system" value="false" />
-        <option name="show-all-items" value="false" />
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -147,6 +81,12 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -158,11 +98,12 @@
       <option name="presentableId" value="Default" />
       <updated>1543695839310</updated>
       <workItem from="1543695843948" duration="55000" />
+      <workItem from="1544047793578" duration="9000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55000" />
+    <option name="totallyTimeSpent" value="64000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -177,27 +118,28 @@
     <frame x="362" y="367" width="1201" height="499" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25416303" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,78 +152,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/ProCore/ProBuilder/Editor/pb_MissingScriptEditor.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1161">
+        <state relative-caret-position="2839">
           <caret line="167" column="17" selection-start-line="167" selection-start-column="17" selection-end-line="167" selection-end-column="17" />
-          <folding>
-            <marker date="1543694368755" expanded="true" signature="0:140" ph="/* Repairs missing pb_Object and pb_Entity references.  It is based ... */" />
-            <marker date="1543694368755" expanded="false" signature="148:292" ph="..." />
-            <marker date="1543694368755" expanded="true" signature="328:13976" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="332:478" ph="/* Extends MonoBehaviour Inspector, automatically fixing missing script ... */" />
-            <marker date="1543694368755" expanded="true" signature="563:13974" ph="{...}" />
-            <marker date="1543694368755" expanded="false" signature="568:2411" ph="Members" />
-            <marker date="1543694368755" expanded="true" signature="1397:1550" ph="/// &lt; MonoScript assets ... " />
-            <marker date="1543694368755" expanded="true" signature="1423:1550" ph="/* Load the pb_Object and pb_Entity classes to MonoScript assets.  Saves us from having to fall back on Reflectio ... */" />
-            <marker date="1543694368755" expanded="true" signature="1581:2018" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="2053:2142" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="2064:2138" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="2177:2266" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="2188:2262" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="2304:2399" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="2315:2395" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="2564:2608" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="2655:3236" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="2938:3057" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="3065:3232" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="3240:3355" ph="/* Advance to the next gameobject with missing components.  If none are found, display dialog and exit. ... */" />
-            <marker date="1543694368755" expanded="true" signature="3376:5585" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="3605:3656" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="3675:4537" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="3873:4532" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="3965:4526" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="4112:4367" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="4296:4359" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="4409:4468" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="4663:5175" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="4833:4914" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="4941:5170" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="5589:5648" ph="/* SerializedProperty names found in pb_Entity. ... */" />
-            <marker date="1543694368755" expanded="true" signature="5715:5802" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="5807:5866" ph="/* SerializedProperty names found in pb_Object. ... */" />
-            <marker date="1543694368755" expanded="true" signature="5933:6006" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="6226:9399" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="6290:6335" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="6501:6676" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="6520:6609" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="6575:6603" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="6618:6658" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="6731:6882" ph="/* Shows a detailed tree view of all the properties in this serializedobject. ... */" />
-            <marker date="1543694368755" expanded="true" signature="7011:7194" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="7330:7587" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="7595:8134" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="7614:8067" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="7648:7928" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="7938:8007" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="8076:8116" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="8188:8306" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="8238:8301" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="8436:9356" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="8564:8590" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="8599:8796" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="8812:8896" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="9403:9494" ph="/* Scan the scene for gameObjects referencing `pb_DummyScript` and delete them. ... */" />
-            <marker date="1543694368755" expanded="true" signature="9529:11256" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="9738:11252" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="10062:11246" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="10186:10995" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="11260:11343" ph="/* Returns a formatted string with all properties in serialized object. ... */" />
-            <marker date="1543694368755" expanded="true" signature="11419:12303" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="11523:11582" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="11707:12273" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="12307:12377" ph="/* Return a string from the value of a SerializedProperty. ... */" />
-            <marker date="1543694368755" expanded="true" signature="12440:13970" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="12471:13966" ph="{...}" />
-            <marker date="1543694368755" expanded="true" signature="13336:13451" ph="/* Not public api as of 4.3? ... */" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ProCore/ProBuilder/Editor/pb_MissingScriptEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-238">
+          <caret line="138" selection-start-line="138" selection-end-line="138" />
         </state>
       </provider>
     </entry>
